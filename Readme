@@ -1,1 +1,6 @@
-Es un sistema de gestion de inventario com productos electrónicos y aliemticios
+Es un sistema de gestion de inventario
+Este programa en C# utiliza Programación Orientada a Objetos para gestionar productos. 
+Define una clase base Producto con información básica y dos clases derivadas: 
+ProductoElectrico y ProductoAlimenticio. 
+Cada tipo de producto calcula su impuesto de manera diferente mediante herencia y polimorfismo, 
+mostrando finalmente los datos del producto y su impuesto en consola.
